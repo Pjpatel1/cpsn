@@ -1,0 +1,22 @@
+.shadow h1{
+    font-size: 40pt;
+  position: relative;
+    z-index: 1;
+ margin-top: -80px;
+   text-align: center;
+  
+    
+}
+
+.shadow h2{
+   
+    font-size: 60pt;
+    color: rgb(246,246,246);
+    top: 0;
+    
+    z-index: -1;
+}
+.heading
+{
+    width: 100%;
+}

@@ -1,7 +1,12 @@
 .App {
   text-align: center;
+  display: block;
 }
 
+.parrent
+{
+  display: block;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -12,7 +17,10 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.home
+{
+   height: 900px; 
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -23,6 +31,7 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
 
 .App-link {
   color: #61dafb;
@@ -35,4 +44,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+.working
+{
+  height: 100vh;
+  display: block;
 }
