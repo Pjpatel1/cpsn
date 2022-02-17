@@ -54,7 +54,7 @@ function Home ()
                   <Link to = "servicespage"
                     smooth={true}
                     duration={1000}
-                    > Get services</Link>
+                    ></Link>
                </div>
                
         </div>
